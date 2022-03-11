@@ -22,7 +22,7 @@ wl.jd.com
 #Apple服务
 itunes.apple.com
 apple.com
-/icloud.com.(cn)*/
+/icloud.com(.cn)*/
 apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
 @@423down com Scsp=script-src'self'*'unsafe-inline
