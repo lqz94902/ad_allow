@@ -28,12 +28,7 @@ apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
 @@423down com Scsp=script-src'self'*'unsafe-inline
 #百度图片显示
-t7.baidu.com
-t8.baidu.com
-t9.baidu.com
-t10.baidu.com
-t11.baidu.com
-t12.baidu.com
+/t[0-9]{1,}.baidu.com/
 event.tradplusad.com
 gct-rbjahlsy1xma7.kbbo7rh7rkr1ure5crv5gw22ex1.com
 track.fstry.me
