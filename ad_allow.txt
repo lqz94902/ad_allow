@@ -20,10 +20,10 @@ msga.cupid.iqiyi.com
 #京东桌面版
 wl.jd.com
 #Apple服务
-itunes.apple.com^
-apple.com^
-icloud.com^
-icloud.com.cn^
+itunes.apple.com
+apple.com
+icloud.com
+icloud.com.cn
 apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
 @@423down com Scsp=script-src'self'*'unsafe-inline
