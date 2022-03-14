@@ -31,7 +31,7 @@ apple.com.akadns.net
 event.tradplusad.com
 gct-rbjahlsy1xma7.kbbo7rh7rkr1ure5crv5gw22ex1.com
 track.fstry.me
-bmcx.com
+/[0-9a-z]*.bmcx.com/
 www.naobiao.com
 api-access.pangolin-sdk-toutiao-b.com
-bmcx.com
+
