@@ -21,7 +21,7 @@ msga.cupid.iqiyi.com
 wl.jd.com
 #Apple服务
 itunes.apple.com
-apple.com
+t[0-9]{1,}.apple.com
 /icloud.com(.cn)*/
 apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
