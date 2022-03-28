@@ -21,7 +21,6 @@ msga.cupid.iqiyi.com
 wl.jd.com
 #Apple服务
 itunes.apple.com
-apple.com
 /icloud.com(.cn)*/
 apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
@@ -35,4 +34,9 @@ track.fstry.me
 www.naobiao.com
 api-access.pangolin-sdk-toutiao-b.com
 37signals.com
+<<<<<<< HEAD
 @111
+=======
+#播客相关
+pdst.fm
+>>>>>>> 4fa2b200461a7fc328189977c02c47d5900c0f18
