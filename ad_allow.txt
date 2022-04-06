@@ -37,6 +37,7 @@ click.pstmrk.it
 pdst.fm
 #office服务
 d.docs.live.net
+docs.live.net
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
