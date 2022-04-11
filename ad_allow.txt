@@ -39,9 +39,7 @@ pdst.fm
 d.docs.live.net
 docs.live.net
 #今日头条
-isub.snssdk.com
-ic.snssdk.com
-i.snssdk.com
+/i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
 
 ## 暂停使用
