@@ -30,6 +30,7 @@ gct-rbjahlsy1xma7.kbbo7rh7rkr1ure5crv5gw22ex1.com
 track.fstry.me
 /[0-9a-z]*.bmcx.com/
 www.naobiao.com
+www.56.com
 api-access.pangolin-sdk-toutiao-b.com
 37signals.com
 click.pstmrk.it
@@ -41,8 +42,6 @@ docs.live.net
 #今日头条
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
-
-www.56.com
 
 
 ## 暂停使用
