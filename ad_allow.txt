@@ -45,6 +45,7 @@ docs.live.net
 #必应
 /(.*).bing.com/
 /(.*).windows.net/
+/(.*).msecnd.net/
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
