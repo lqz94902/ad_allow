@@ -43,7 +43,6 @@ docs.live.net
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
 #必应
-www.bing.com
 /(.*).bing.com/
 
 ## 暂停使用
