@@ -42,7 +42,8 @@ docs.live.net
 #今日头条
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
-
+#必应
+bing.com
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
