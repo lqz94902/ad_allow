@@ -44,6 +44,7 @@ docs.live.net
 /log-api.pangolin-sdk-toutiao.*/
 #必应
 /(.*).bing.com/
+/(.*).windows.net/
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
