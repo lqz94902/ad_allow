@@ -44,6 +44,8 @@ docs.live.net
 /log-api.pangolin-sdk-toutiao.*/
 #redditmail
 @@||click.redditmail.com^
+#花椒直播
+@@||qhres2.com^
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
