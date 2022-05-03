@@ -50,7 +50,8 @@ docs.live.net
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
 @@||publish-pic-cpu.baidu.com^$important
-
+#淘宝
+@@||re.taobao.com^$important
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
