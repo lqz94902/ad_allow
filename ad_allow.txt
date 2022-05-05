@@ -53,7 +53,8 @@ docs.live.net
 #爱淘宝
 @@||re.taobao.com^$important
 @@||click.simba.taobao.com^$important
-
+#no description
+@@||xnxx.com^$important
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
