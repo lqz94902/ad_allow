@@ -1,0 +1,8 @@
+https://doh.pub/dns-query
+https://dns.alidns.com/dns-query
+https://dns.ipv6dns.com/dns-query
+tls://dot.360.cn
+quic://c.passcloud.xyz:784
+quic://j.iqiq.io:784
+tls://dns.google
+tls://1dot1dot1dot1.cloudflare-dns.com
