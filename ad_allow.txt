@@ -59,6 +59,7 @@ docs.live.net
 @@||vzuu.com^
 #电脑管家
 @@||guanjia.qq.com^
+@@||pcmgr.qq.com^
 /dlied[0-9].qq.com/
 
 ## 暂停使用
