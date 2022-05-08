@@ -57,6 +57,9 @@ docs.live.net
 @@||xnxx.com^$important
 #知乎视频
 @@||vzuu.com^
+#电脑管家
+@@||guanjia.qq.com^
+
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
 
