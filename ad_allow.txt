@@ -46,8 +46,9 @@ docs.live.net
 @@||click.redditmail.com^
 #花椒直播
 @@||qhres2.com^
-#56直播
+#搜狐视频、56直播
 @@||qf.56.com^$important
+@@||data.vod.itc.cn^$important
 #百度相关
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
