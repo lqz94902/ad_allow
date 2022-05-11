@@ -60,6 +60,7 @@ docs.live.net
 @@||xnxx.com^$important
 #知乎视频
 @@||vzuu.com^
+@@||lens.zhihu.com^$important
 #电脑管家
 @@||guanjia.qq.com^
 @@||pcmgr.qq.com^
