@@ -49,6 +49,8 @@ docs.live.net
 #搜狐视频、56直播
 @@||qf.56.com^$important
 @@||data.vod.itc.cn^$important
+@@||i.56.com^$important
+@@||vstat.v.blog.sohu.com^$important
 #百度相关
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
