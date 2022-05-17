@@ -70,7 +70,6 @@ docs.live.net
 #微软
 @@||code.visualstudio.com^$important
 
-
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
 
