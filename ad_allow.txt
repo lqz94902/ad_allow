@@ -46,7 +46,7 @@ docs.live.net
 @@||click.redditmail.com^
 #花椒直播
 @@||qhres2.com^
-/vod-cdn-huajiao.[0-6].cn^$important/
+/vod-cdn-huajiao.[0-9].cn/
 #搜狐视频、56直播
 @@||qf.56.com^$important
 @@||data.vod.itc.cn^$important
