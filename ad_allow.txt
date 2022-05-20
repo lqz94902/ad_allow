@@ -72,6 +72,7 @@ docs.live.net
 @@||code.visualstudio.com^$important
 #epic
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
+/eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
 
 ## 暂停使用
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
