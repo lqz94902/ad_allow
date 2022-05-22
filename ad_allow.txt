@@ -36,9 +36,6 @@ api-access.pangolin-sdk-toutiao-b.com
 click.pstmrk.it
 #播客相关
 pdst.fm
-#office服务
-d.docs.live.net
-docs.live.net
 #今日头条
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
@@ -69,7 +66,11 @@ docs.live.net
 @@||pcmgr.qq.com^
 /dlied[0-9].qq.com/
 #微软
+@@||windows.net^
 @@||code.visualstudio.com^$important
+#office服务
+d.docs.live.net
+docs.live.net
 #epic
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
