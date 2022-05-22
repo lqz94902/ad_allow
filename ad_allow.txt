@@ -67,7 +67,9 @@ pdst.fm
 /dlied[0-9].qq.com/
 #微软
 @@||windows.net^
+@@||vortex.data.microsoft.com^
 @@||code.visualstudio.com^$important
+
 #office服务
 d.docs.live.net
 docs.live.net
