@@ -34,6 +34,7 @@ www.56.com
 api-access.pangolin-sdk-toutiao-b.com
 37signals.com
 click.pstmrk.it
+@@||in-addr.arpa^
 #播客相关
 pdst.fm
 #今日头条
