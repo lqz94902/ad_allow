@@ -40,6 +40,7 @@ pdst.fm
 #今日头条
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
+@@||rp.hpplay.cn^$important
 #redditmail
 @@||click.redditmail.com^
 #花椒直播
