@@ -38,6 +38,7 @@ click.pstmrk.it
 #播客相关
 pdst.fm
 #今日头条
+@@||log.snssdk.com^$important
 /i[a-z]*.snssdk.com/
 /log-api.pangolin-sdk-toutiao.*/
 @@||rp.hpplay.cn^$important
