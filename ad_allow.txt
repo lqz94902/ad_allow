@@ -57,7 +57,7 @@ pdst.fm
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
 @@||publish-pic-cpu.baidu.com^$important
-#爱淘宝
+#爱淘宝*
 @@||re.taobao.com^$important
 @@||click.simba.taobao.com^$important
 #no description
