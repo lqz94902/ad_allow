@@ -15,15 +15,15 @@ adsmind.ugdtimg.com
 click.mz.simba.taobao.com
 t7z.cupid.iqiyi.com
 msga.cupid.iqiyi.com
-#京东桌面版
+# 京东桌面版
 wl.jd.com
-#Apple服务
+# Apple服务
 itunes.apple.com
 /icloud.com(.cn)*/
 apple.com.akadns.net
 2mcmg31d.r.us-east-1.awstrack.me
 423down com Scsp=script-src'self'*'unsafe-inline
-#百度图片显示
+# 百度图片显示
 /t[0-9]{1,}.baidu.com/
 event.tradplusad.com
 gct-rbjahlsy1xma7.kbbo7rh7rkr1ure5crv5gw22ex1.com
@@ -36,48 +36,49 @@ api-access.pangolin-sdk-toutiao-b.com
 click.pstmrk.it
 @@||id6.me^$important
 @@||in-addr.arpa^
-#播客相关
+# 播客相关
 pdst.fm
-#今日头条
+# 今日头条
 @@||snssdk.com^$important
 /log-api.pangolin-sdk-toutiao.*/
 @@||rp.hpplay.cn^$important
 @@||dig.bdurl.net^$important
-#redditmail
+# redditmail
 @@||click.redditmail.com^
-#花椒直播
+# 花椒直播
 @@||qhres2.com^
 /vod-cdn-huajiao.[0-9].cn/
-#搜狐视频、56直播
+# 搜狐视频、56直播
 @@||qf.56.com^$important
 @@||data.vod.itc.cn^$important
 @@||i.56.com^$important
 @@||vstat.v.blog.sohu.com^$important
-#百度相关
+# 百度相关
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
 @@||publish-pic-cpu.baidu.com^$important
-#爱淘宝
+# 爱淘宝
 @@||re.taobao.com^$important
 @@||click.simba.taobao.com^$important
-#no description
+# no description
 @@||xnxx.com^$important
-#知乎视频
+# 辣品
+@@||lapin.ithome.com^$important
+# 知乎视频
 @@||vzuu.com^
 @@||lens.zhihu.com^$important
-#电脑管家
+# 电脑管家
 @@||guanjia.qq.com^
 @@||pcmgr.qq.com^
 /dlied[0-9].qq.com/
-#微软
+# 微软
 @@||windows.net^
 @@||vortex.data.microsoft.com^
 @@||code.visualstudio.com^$important
-
-#office服务
+# office服务
 d.docs.live.net
 docs.live.net
-#epic
+# epic
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
 
