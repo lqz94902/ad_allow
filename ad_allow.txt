@@ -36,6 +36,8 @@ api-access.pangolin-sdk-toutiao-b.com
 click.pstmrk.it
 @@||id6.me^$important
 @@||in-addr.arpa^
+
+##————————————————————分类————————————————————
 # 播客相关
 pdst.fm
 # 今日头条
@@ -57,9 +59,11 @@ pdst.fm
 @@||mid.hao123.com^$important
 @@||cpucdn.baidu.com^$important
 @@||publish-pic-cpu.baidu.com^$important
-# 爱淘宝
+@@||baikebcs.bdimg.com^$important
+# 淘宝
 @@||re.taobao.com^$important
 @@||click.simba.taobao.com^$important
+@@||alibabadns.com^$important
 # no description
 @@||xnxx.com^$important
 # 辣品
