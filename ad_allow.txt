@@ -36,6 +36,7 @@ api-access.pangolin-sdk-toutiao-b.com
 click.pstmrk.it
 @@||id6.me^$important
 @@||in-addr.arpa^
+@@||local.adguard.org^
 
 ##————————————————————分类————————————————————
 # 播客相关
