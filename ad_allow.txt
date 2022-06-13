@@ -15,15 +15,6 @@ adsmind.ugdtimg.com
 click.mz.simba.taobao.com
 t7z.cupid.iqiyi.com
 msga.cupid.iqiyi.com
-# 京东桌面版
-wl.jd.com
-# Apple服务
-itunes.apple.com
-/icloud.com(.cn)*/
-apple.com.akadns.net
-2mcmg31d.r.us-east-1.awstrack.me
-423down com Scsp=script-src'self'*'unsafe-inline
-# 百度图片显示
 /t[0-9]{1,}.baidu.com/
 event.tradplusad.com
 gct-rbjahlsy1xma7.kbbo7rh7rkr1ure5crv5gw22ex1.com
@@ -61,6 +52,15 @@ pdst.fm
 @@||cpucdn.baidu.com^$important
 @@||publish-pic-cpu.baidu.com^$important
 @@||baikebcs.bdimg.com^$important
+# 京东桌面版
+wl.jd.com
+# Apple服务
+itunes.apple.com
+/icloud.com(.cn)*/
+apple.com.akadns.net
+2mcmg31d.r.us-east-1.awstrack.me
+423down com Scsp=script-src'self'*'unsafe-inline
+# 百度图片显示
 # 淘宝
 @@||re.taobao.com^$important
 @@||click.simba.taobao.com^$important
