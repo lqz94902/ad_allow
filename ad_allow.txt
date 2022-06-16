@@ -29,7 +29,7 @@ click.pstmrk.it
 @@||in-addr.arpa^
 @@||local.adguard.org^
 
-##————————————————————分类————————————————————
+##————————————————————域名分类————————————————————
 # 播客相关
 pdst.fm
 # 今日头条
@@ -87,7 +87,11 @@ docs.live.net
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
 
-## 暂停使用
+#———————————————————功能性测试———————————————————
+#Windows 11 解决MSN页面弹窗
+@@||c.msn.cn^$important
+
+#————————————————————暂停使用————————————————————
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
 
 
