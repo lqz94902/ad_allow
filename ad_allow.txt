@@ -25,10 +25,10 @@ www.56.com
 api-access.pangolin-sdk-toutiao-b.com
 37signals.com
 click.pstmrk.it
-@@||id6.me^$important
-@@||in-addr.arpa^
+@@||id6.me^$important^
 @@||local.adguard.org^
 
+#
 ##————————————————————域名分类————————————————————
 # 播客相关
 pdst.fm
