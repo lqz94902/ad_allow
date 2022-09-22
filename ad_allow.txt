@@ -42,6 +42,9 @@ pdst.fm
 # 花椒直播
 @@||qhres2.com^
 /vod-cdn-huajiao.[0-9].cn/
+# 抖音极速版
+@@||tobapplog.ctobsnssdk.com^$important
+@@||toblog.ctobsnssdk.com^$important
 # 搜狐视频、56直播
 @@||qf.56.com^$important
 @@||data.vod.itc.cn^$important
