@@ -25,8 +25,6 @@ www.56.com
 api-access.pangolin-sdk-toutiao-b.com
 37signals.com
 click.pstmrk.it
-beeglivesex.com
-
 @@||id6.me^$important^
 @@||local.adguard.org^
 
@@ -92,12 +90,11 @@ docs.live.net
 # epic
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
+# beeglivesex.com色情网站
+@@||beeglivesex.com^
 
 #————————————————-——功能性测试———————————————————
 #Windows 11 解决MSN页面弹窗
-@@||c.msn.cn^$important
-
-
 #********************暂停使用*********************
 #/^(\S+\.)?[0-9a-z\-]{26,}\.(com|net|cn)(\.cn)?$/ 
 #************************************************
