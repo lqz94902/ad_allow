@@ -28,3 +28,11 @@ tls://dns.google
 tls://1dot1dot1dot1.cloudflare-dns.com
 tls://dns.nextdns.io
 -----------------------------------------
+    - h3://dns.cloudflare.com/dns-query
+    - h3://dns.alidns.com/dns-query
+    - h3://dns.nextdns.io
+    - https://dns.pub/dns-query
+    - https://doh.360.cn/dns-query
+    - https://cn-east.iqiqzz.com/dns-query
+    - https://cn-south.iqiqzz.com/dns-query
+
