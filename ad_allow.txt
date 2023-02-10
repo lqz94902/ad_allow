@@ -92,8 +92,9 @@ docs.live.net
 # epic
 /eulatracking-public-service-prod[0-9]*.ak.epicgames.com/
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
-# beeglivesex.com色情网站
+# 色情网站
 @@||beeglivesex.com^
+@@||bongacams.com^
 
 #————————————————-——功能性测试———————————————————
 
