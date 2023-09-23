@@ -76,6 +76,8 @@ apple.com.akadns.net
 # 知乎视频
 @@||vzuu.com^
 @@||lens.zhihu.com^$important
+# 快手
+@@||s2.kskwai.com^$important
 # 腾讯视频
 @@||vv.video.qq.com^
 # 电脑管家
