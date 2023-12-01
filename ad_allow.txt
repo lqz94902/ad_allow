@@ -96,7 +96,8 @@ docs.live.net
 /eulatracking-public-service-prod[0-9]*.ol.epicgames.com/
 # 阿里云服务入口
 #@@||log.aliyuncs.com^
-
+# 360
+@@||360.cn^$important
 # 色情网站
 @@||beeglivesex.com^
 @@||bongacams.com^
