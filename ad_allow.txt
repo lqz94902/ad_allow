@@ -106,6 +106,7 @@ docs.live.net
 
 # 影响使用的广告过滤
 @@||baixing.com^$important
-
+@@||log.mmstat.com^$important
+@@||statics.123pan.com^$important
 
 
